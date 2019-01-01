@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-## changed twice 01-Jan-19
+#<<<<<<< HEAD
+## changed three times 01-Jan-19
 ## Put comments here that give an overall description of what your
 ## functions do
 
@@ -8,7 +8,7 @@
 makeCacheMatrix <- function(x = matrix()) {
 
 }
-
+##
 
 ## Write a short comment describing this function
 
@@ -28,7 +28,7 @@ cachemean <- function(x, ...) {
         x$setmean(m)
         m
 }
-=======
+#=======
 ## changed 01-Jan-19
 ## Put comments here that give an overall description of what your
 ## functions do
@@ -45,4 +45,4 @@ makeCacheMatrix <- function(x = matrix()) {
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
->>>>>>> ba40244090017f0fc23b55ec72ebd6be08bc6708
+#>>>>>>> ba40244090017f0fc23b55ec72ebd6be08bc6708
